@@ -1,7 +1,7 @@
 # Shield-Insurance
 This Project is part of data analytics virtual internship at codebasics.
 
-Video Presentation Link:  "[https://www.youtube.com/embed/agTQCOOhfwM?si=cTah3YpmcVP99sn3"](https://youtu.be/cfzRuh8q-DY](https://youtu.be/cfzRuh8q-DY)"
+Video Presentation Link:  "https://www.youtube.com/watch?v=cfzRuh8q-DY"
 
 This repository contains the code, datasets, and insights derived from the analysis conducted for Shield Insurance, an imaginary company. The analysis was carried out as part of the #codebasicsvirtualinternship program at AtliQ Technologies.
 
@@ -24,7 +24,7 @@ The goal of this project was to analyze Shield Insurance's operational data and 
 
 ## Dashboard Access
 
-Access the live Power BI dashboard: https://app.powerbi.com/view?r=eyJrIjoiZDk2MWE1MjQtZWQ4OC00MzQxLWE5M2EtYjJiNzhjMTE1OTFlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Access the live Power BI dashboard: "https://app.powerbi.com/view?r=eyJrIjoiZDk2MWE1MjQtZWQ4OC00MzQxLWE5M2EtYjJiNzhjMTE1OTFlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"
 
 ## Tools Used
 - Microsoft Power BI
