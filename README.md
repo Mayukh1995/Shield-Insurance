@@ -24,7 +24,7 @@ The goal of this project was to analyze Shield Insurance's operational data and 
 
 ## Dashboard Access
 
-Access the live Power BI dashboard: "https://app.powerbi.com/view?r=eyJrIjoiZDk2MWE1MjQtZWQ4OC00MzQxLWE5M2EtYjJiNzhjMTE1OTFlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"
+Access the live Power BI dashboard: "https://app.powerbi.com/view?r=eyJrIjoiZTFhOTc2YjEtNmZhNS00NDMwLThhNTMtNzNlMjQ3YTBmZWQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"
 
 ## Tools Used
 - Microsoft Power BI
